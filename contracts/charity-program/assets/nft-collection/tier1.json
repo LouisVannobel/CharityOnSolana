@@ -1,0 +1,40 @@
+{
+  "name": "Charity NFT #1 - Education Support",
+  "symbol": "CHAR",
+  "description": "Support education initiatives with this NFT. Each purchase helps provide educational resources to those in need.",
+  "seller_fee_basis_points": 500,
+  "image": "tier1.png",
+  "attributes": [
+    {
+      "trait_type": "Cause",
+      "value": "Education"
+    },
+    {
+      "trait_type": "Tier",
+      "value": "1"
+    },
+    {
+      "trait_type": "Impact Level",
+      "value": "Supporting"
+    },
+    {
+      "trait_type": "Price",
+      "value": "1 SOL"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "tier1.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": null,
+        "share": 100
+      }
+    ]
+  }
+}

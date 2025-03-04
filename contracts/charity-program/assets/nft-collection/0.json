@@ -1,0 +1,32 @@
+{
+  "name": "Charity NFT #1",
+  "symbol": "CHAR",
+  "description": "A charitable NFT supporting good causes",
+  "seller_fee_basis_points": 500,
+  "image": "0.png",
+  "attributes": [
+    {
+      "trait_type": "Cause",
+      "value": "Education"
+    },
+    {
+      "trait_type": "Impact Level",
+      "value": "High"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "0.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": null,
+        "share": 100
+      }
+    ]
+  }
+}
