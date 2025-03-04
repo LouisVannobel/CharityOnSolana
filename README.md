@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # CharityOnSolana
 =======
 **README.md**
@@ -74,4 +73,3 @@ anchor deploy
 npm run build
 npm run preview
 ```
->>>>>>> 8f02993 (Add Project)
