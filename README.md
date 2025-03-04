@@ -3,6 +3,8 @@
 ## Description
 CharityOnSolana est une plateforme de charité basée sur la blockchain Solana. Les utilisateurs peuvent acheter des NFTs pour soutenir des causes sociales, et en retour, ils reçoivent des tokens SPL en guise de récompense.
 
+![screencapture-localhost-5173-2025-03-04-23_05_21](https://github.com/user-attachments/assets/32599b20-25f6-4d07-9e42-3113a2eee6b5)
+
 ## Technologies utilisées
 
 ### Blockchain & Backend
