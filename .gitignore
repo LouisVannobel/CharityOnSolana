@@ -1,0 +1,56 @@
+# Ignorer les fichiers et dossiers spécifiques à Anchor
+.anchor
+target/
+test-ledger/
+
+# Ignorer les fichiers temporaires ou de sauvegarde
+*.rs.bk
+*.log
+*.tmp
+*.swp
+*.swo
+
+# Ignorer les fichiers spécifiques à Node.js
+node_modules/
+yarn.lock
+package-lock.json
+
+# Ignorer les fichiers spécifiques à l'environnement de développement
+.DS_Store
+.vscode/
+.idea/
+*.iml
+
+# Ignorer les fichiers de build pour le frontend
+dist/
+build/
+
+# Ignorer les fichiers de configuration locaux
+.env
+.env.local
+.env.*.local
+
+# Ignorer les fichiers générés par Solana
+*.keypair.json
+*.so
+
+# Ignorer les fichiers de documentation (si non nécessaires dans le dépôt)
+DEVBOOK.md
+Instructions.md
+
+# Ignorer les fichiers spécifiques à Git
+*.orig
+*.rej
+
+# Ignorer les fichiers de logs globaux
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Ignorer les fichiers de tests générés
+coverage/
+*.test.js.snap
+*.test.ts.snap
+
+# Ignorer les fichiers de build pour Rust
+Cargo.lock

@@ -1,0 +1,40 @@
+{
+  "name": "Charity NFT #4 - Major Impact",
+  "symbol": "CHAR",
+  "description": "Premium NFT representing major support for charitable causes. Your significant contribution will make a lasting impact.",
+  "seller_fee_basis_points": 500,
+  "image": "tier4.png",
+  "attributes": [
+    {
+      "trait_type": "Cause",
+      "value": "Multiple Causes"
+    },
+    {
+      "trait_type": "Tier",
+      "value": "4"
+    },
+    {
+      "trait_type": "Impact Level",
+      "value": "Major"
+    },
+    {
+      "trait_type": "Price",
+      "value": "5 SOL"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "tier4.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": null,
+        "share": 100
+      }
+    ]
+  }
+}
